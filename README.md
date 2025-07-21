@@ -1,7 +1,7 @@
 # SyriaTel Customer Churn Prediction
 
 <p align="center">
-  <img src="customer churn.jpeg" alt="Customer Churn" width="600"/>
+  <img src="customer churn.jpeg" alt="Customer Churn" width="300" length="600"/>
 </p>
 <p align="center">
   <b>Author:</b> <a href="mailto:joshenkis@gmail.com">Joackim Kisienya</a>

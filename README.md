@@ -114,9 +114,10 @@ Two models were used:
 
 ### ROC Curves
 
-![Random Forest ROC curve](Images/image-4.png)
+![ROC curves](Images/ROC_curve.png)
 
 - **ROC curves** were plotted for both models to visualize their ability to distinguish between churners and non-churners.
+
 - **Interpretation**: The Random Forest model’s ROC curve rises steeply toward the top-left corner, with an AUC of 0.94, indicating excellent performance. Logistic Regression’s AUC is 0.84, showing good but less optimal separation.
 
 ---

@@ -124,15 +124,9 @@ Two models were used:
 
 ## Conclusion
 
-- High-usage customers who churn represent significant revenue loss; targeted loyalty incentives are recommended.
-- Customers with frequent support calls should be prioritized for improved service.
-- Pricing models, especially for international and daytime usage, should be reevaluated.
-- **Random Forest** is the preferred model for deployment due to its superior performance and actionable insights.
-
----
-
-## Key Takeaways
-
+- **Random Forest Classifier** is the preferred model for deployment due to its superior performance and actionable insights.
 - Data-driven modeling can effectively identify at-risk customers.
 - Understanding feature importance helps tailor business strategies.
-- The methodology is robust and can be adapted for similar churn prediction problems in other industries.
+- Random Forest methodology is robust and can be adapted for similar churn prediction problems 
+  in other industries.
+---
